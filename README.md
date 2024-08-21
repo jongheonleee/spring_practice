@@ -8,9 +8,10 @@
 - the structure of template callback
 <img src="https://github.com/user-attachments/assets/6e0108cd-1e4f-4ec4-b425-fe4600b39496" width="500" height="500"/>
 
-- what is template callback?
-  - the most important things is using <strong>strategy pattern and DI</strong>
-  - template object needs the callback object for work, and i can make a various callback. 
-  - template : it's mean Context. callback : object that can be change & each features needs some callback to finish
+- What is Template callback?
+  - The most important thing is using a strategy pattern and the DI
+  - template object needs the callback object for work, and I can make a various callback.
+  - Template: it means Context
+  - Callback: an object that can be changed & each feature needs some callback to finish
 
 
