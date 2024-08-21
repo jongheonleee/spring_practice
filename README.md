@@ -10,8 +10,8 @@
 
 - What is Template Callback Pattern?
   - The most important thing is using a strategy pattern and the DI
-  - template object needs the callback object for work, and I can make a various callback.
+  - template object needs the callback object for function, and I can make a various callback.
   - Template: it means Context
-  - Callback: an object that can be changed & each feature needs some callback to finish
+  - Callback: an object that can be changed & each function needs some callback to finish
 
 
