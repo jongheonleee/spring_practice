@@ -3,10 +3,10 @@
 ### 01. Template Callback
 
 - 템플릿 콜백 작동 흐름
-<img src="" width="500" height="500"/>
+<img src="https://github.com/user-attachments/assets/2dcd0626-42e7-4f92-b95e-8afea8a06b28" width="500" height="500"/>
 
 - 현재 만든 템플릿 콜백 구조
-<img src="" width="500" height="500"/>
+<img src="https://github.com/user-attachments/assets/6e0108cd-1e4f-4ec4-b425-fe4600b39496" width="500" height="500"/>
 
 - 템플릿 콜백 핵심
 - Strategy Pattern & DI 동시에 적용한 것 
